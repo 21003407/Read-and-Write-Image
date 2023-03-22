@@ -74,25 +74,34 @@ cv2.waitKey(0)
 ### i) Read and display the image
 
 <br>
-![]
+
+![](joans.jpg)
 <br>
 
 ### ii)Write the image
 
 <br>
+
+![](joans2.png)
 <br>
 
 ### iii)Shape of the Image
 
 <br>
+
+![](joans3.png)
 <br>
 
 ### iv)Access rows and columns
 <br>
+
+![](joans4.png)
 <br>
 
 ### v)Cut and paste portion of image
 <br>
+
+![](joans5.png)
 <br>
 
 ## Result:
